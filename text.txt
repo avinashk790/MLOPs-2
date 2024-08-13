@@ -1,0 +1,8 @@
+app.py
+requirements.txt
+joblib
+pandas
+seaborn
+scikit-learn
+matplotlib
+mlflow
